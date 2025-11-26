@@ -1,3 +1,6 @@
+/**
+* Returns whether the number is 6.
+*/
 export function is_six(num) {
 	let not_factor = 0;
 	for (let i = 2; i < num; i++) {
