@@ -2,7 +2,7 @@ A repo for collecting libraries with TheAlgorithmOfAllTime.
 # python
 ## Install
 - Download the `TAOAT.py` file.
-- `import taoat.py`
+- `import TAOAT.py`
 # rust
 ## Install
 - Download the crate
